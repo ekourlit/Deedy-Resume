@@ -167,7 +167,7 @@ GCP \textbullet{} SQL \textbullet{} Docker  \\
 \begin{tightemize}
     \item Led a 10-member team to modernize legacy C++ data analysis tools with scalable array-based implementations, achieving a 4× increase in throughput while aligning with industrial data science standards; project funded by personal grant.
 \end{tightemize}
-Python libraries: \texttt{Awkward}, \texttt{Dask}, \texttt{Numba}
+Python libraries: \texttt{Awkward}, \texttt{Dask}, \texttt{Numba}, \texttt{CuPy}
 \sectionsep
 
 \runsubsection{Argonne National Laboratory} 
