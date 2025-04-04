@@ -50,14 +50,15 @@ Last Updated on
 
 
 % Name command
-\newcommand{\namesection}[3]{
+\newcommand{\namesection}[4]{
 	\centering{
 		\sffamily
 		\fontspec{Helvetica Neue UltraLight}\fontsize{40pt}{10cm}\selectfont #1 
 		\fontspec{Helvetica Neue Light}\selectfont #2
+		\fontspec{Helvetica Neue UltraLight}\fontsize{40pt}{10cm}\selectfont #3
 	} \\
-	\vspace{5pt}
-	\centering{ \color{headings}\fontspec{Heiti TC Medium}\fontsize{11pt}{14pt}\selectfont #3}
+	\vspace{10pt}
+	\centering{ \color{headings}\fontspec{Heiti TC Medium}\fontsize{18pt}{14pt}\selectfont #4}
 	\noindent\makebox[\linewidth]{\rule{\paperwidth}{0.4pt}}
 	\vspace{-15pt}
 }
