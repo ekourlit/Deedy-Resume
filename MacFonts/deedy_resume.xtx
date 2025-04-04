@@ -157,7 +157,7 @@ GCP \textbullet{} SQL \textbullet{} Docker  \\
 \location{Oct 2023 - Dec 2024}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-    \item Managed a geographically distributed 120-member group in charge of data analysis software ($\sim$10M LOC) and data formats, ensuring milestones alignment with organizational priorities.
+    \item Managed a geographically distributed 120-member group in charge of ATLAS data analysis software ($\sim$10M LOC) and data formats, ensuring milestones alignment with organizational priorities.
     \item Drove the adoption of a lightweight data format ahead of schedule, offering 3x reduction in data storage costs.
     \item Mentored early-career developers projects, delivering innovative software products on time and fostering growth.
     \item Organized tutorials promoting the scientific Python ecosystem in particle physics data analysis, enhancing UX and insights extraction speed.
