@@ -83,7 +83,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Profile}
 
-Data scientist and software developer with 10 years of experience in various technical projects and leadership positions within the ATLAS Experiment at CERN. Specialized in developing scalable pipelines in big data analytics and machine learning domains, with a proven track record of optimizing workflows and delivering impactful solutions. Skilled leader with extensive experience mentoring teams, presenting complex results to diverse audiences, and authoring and reviewing technical reports. Now seeking to transition into industry to apply my advanced technical expertise to commercial challenges in fintech.
+Data scientist and software developer with 10 years experience in various technical projects and leadership positions within the ATLAS Experiment at CERN. Specialized in developing scalable pipelines in big data analytics and machine learning domains, with a proven track record of optimizing workflows and delivering impactful solutions. Skilled leader with extensive experience mentoring teams, presenting complex results to diverse audiences, and authoring and reviewing technical reports. Now seeking to transition into industry to apply advanced technical expertise to commercial challenges in fintech.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     CONTACT
@@ -165,7 +165,7 @@ GCP \textbullet{} SQL \textbullet{} Docker  \\
 \descript{Data Science Researcher}
 \location{Mar 2023 - Sept 2023}
 \begin{tightemize}
-    \item Led a 10-member team to modernize legacy C++ data analysis tools with scalable array-based implementations, achieving a 4× increase in throughput while aligning with industrial data science standards; project funded by a personal €38K grant.
+    \item Led a 10-member team to modernize legacy C++ data analysis tools with scalable array-based implementations, achieving a 4× increase in throughput while aligning with industrial data science standards; project funded by personal grant.
 \end{tightemize}
 Python libraries: \texttt{Awkward}, \texttt{Dask}, \texttt{Numba}
 \sectionsep
@@ -190,7 +190,7 @@ Python libraries: \texttt{PyTorch}, \texttt{Ray}, \texttt{PySpark}
 \descript{Doctoral Researcher}
 \location{Nov 2015 - Oct 2019}
 \begin{tightemize}
-    \item Delivered ATLAS' first technical report on new physics searches, leveraging the largest available dataset at the time and and pioneering the first release of a full analysis likelihood from CERN.
+    \item Delivered ATLAS technical report on new physics searches, the first to leverage the largest available dataset at the time and to feature the first release of a full analysis likelihood from CERN.
     \item Developed and maintained C++ data analysis software for high-throughput computations across the full development lifecycle.
     \item Instructed Python labs to MSc students, covering core programming and scientific computing concepts.
 \end{tightemize}
