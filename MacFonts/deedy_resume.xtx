@@ -157,7 +157,7 @@ GCP \textbullet{} SQL \textbullet{} Docker  \\
 \location{Oct 2023 - Dec 2024}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-    \item Managed a geographically distributed 120-member group in charge of ATLAS data analysis software ($\sim$10M LOC) and data formats, ensuring milestones alignment with organizational priorities.
+    \item Managed a geographically distributed 120-member group in charge of ATLAS data analysis software ($\sim$1M LOC) and data formats, ensuring milestones alignment with organizational priorities.
     \item Drove the adoption of a lightweight data format ahead of schedule, offering 3x reduction in data storage costs.
     \item Mentored early-career developers projects, delivering innovative software products on time and fostering growth.
     \item Organized tutorials promoting the scientific Python ecosystem in particle physics data analysis, enhancing UX and insights extraction speed.
@@ -178,7 +178,7 @@ Python libraries: \texttt{Awkward}, \texttt{Dask}, \texttt{Numba}, \texttt{CuPy}
     \item Led a team of 7 researchers to utilize advanced analysis algorithms and ML methods in particle identification, increasing experimental reach by 12\% and conducting ATLAS first full statistical analysis in pure Python.
     \item Played key role in optimizing the ATLAS simulation software, identified bottlenecks and doubled its processing speed with physics optimizations.
     \item Prototyped 3D CNN solution for further accelerating simulations up to 20\% and developed scalable GPU training strategies.
-    \item Benchmarked novel hardware accelerator (SambaNova RDU) for training autoencoder ML models.
+    \item Benchmarked emerging hardware accelerators (SambaNova RDU) for training autoencoder ML models.
     \item Facilitated collaboration among 10 international teams by establishing and documenting standardized methodologies and metrics for robust AI-driven results.
     \item Stress-tested the operational readiness and elasticity of the GCP for particle physics data analysis workflows.
 \end{tightemize}
