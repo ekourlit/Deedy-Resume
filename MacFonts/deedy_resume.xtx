@@ -67,7 +67,7 @@
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \namesection{Vangelis}{Kourlitis}{PhD}{ 
-    Data Science | Simulation Software | ex-CERN
+    Data Science | Simulation Software | Technical Leadership | ex-CERN
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -126,6 +126,11 @@ Docker \textbullet{} GCP \textbullet{} AWS \textbullet{} SQL \textbullet{} OpenM
 
 \section{Education} 
 
+\subsection{Technical University of Munich}
+\descript{Scientific Project Management}
+\location{2024 | Munich, DE}
+\sectionsep
+
 \subsection{University of Sheffield}
 \descript{PhD in Physics}
 \location{2015 - 2019 | Sheffield, UK}
@@ -157,15 +162,15 @@ Docker \textbullet{} GCP \textbullet{} AWS \textbullet{} SQL \textbullet{} OpenM
 \location{Oct 2023 - Dec 2024}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-    \item Managed a geographically distributed 120-member group overseeing data analysis software ($\sim$1M LOC) and data formats; applied Agile methodologies to ensure project milestones aligned with organizational goals.
+    \item Managed an international 120-member group overseeing data analysis software ($\sim$1M LOC) and data formats; applied Agile methodologies to ensure project milestones aligned with organizational goals.
     \item Drove the adoption of a lightweight data format ahead of schedule, offering 3x reduction in data storage costs.
-    \item Introduced high-performance scientific Python tools, significantly enhancing user experience and accelerating insights extraction.
-    \item Planned and mentored early-career developers projects, delivering innovative software products on time and fostering professional growth.
+    \item Rolled out streamlined software configuration paradigm, reducing onboarding time from weeks to hours.
+    \item Planned and mentored multiple fixed price/time projects (€10-20k, 3-6 months) of early-career developers, delivering innovative software products on time and fostering professional growth.
 \end{tightemize}
 \descript{Data Science Researcher}
 \location{Mar 2023 - Sept 2023}
 \begin{tightemize}
-    \item Awarded 40k\,€ grant to lead a 10-member team to modernize legacy C++ data analysis tools with scalable array-based implementations, achieving 4× higher throughput and aligning with industry data science standards.
+    \item Awarded €40k grant to lead a 10-member team to modernize legacy C++ data analysis tools with scalable array-based implementations, achieving 4× higher throughput and aligning with industry data science standards.
 \end{tightemize}
 Python libraries: \texttt{Awkward}, \texttt{Dask}, \texttt{Numba}, \texttt{CuPy}
 \sectionsep
@@ -175,12 +180,12 @@ Python libraries: \texttt{Awkward}, \texttt{Dask}, \texttt{Numba}, \texttt{CuPy}
 \descript{Data Science Researcher}
 \location{Nov 2019 - Feb 2023}
 \begin{tightemize}
-    \item Identified bottlenecks and optimized large-scale C++ Monte Carlo particle simulations, doubling processing speed through computational improvements. Prototyped computer vision solution for up to 20\% additional simulation acceleration.
+    \item Identified bottlenecks and optimized large-scale C++ Monte Carlo particle simulations, doubling processing speed through computational improvements. Prototyped 3D CNN computer vision solution for up to 20\% additional simulation acceleration.
     \item Streamlined HPC workflows for particle simulation, ML optimization, and statistical analysis, cutting time-to-insight from days to hours. 
     \item Led a team of 7 researchers in applying advanced analysis algorithms and ML for complex data classification, increasing experimental reach by 12\%.
-    \item Benchmarked emerging hardware accelerators for training ML models in anomaly detection, achieving tenfold increase in throughput.
-    \item Facilitated collaboration among 10 international teams by establishing and documenting standardized methodologies for robust AI-driven results.
-    % \item Stress-tested Google Cloud Platform’s readiness and scalability for large-scale data analysis workflows handling datasets of O(100\,TB).
+    \item Benchmarked novel accelerator SambaNova RDU against NVIDIA GPUs on a variational autoencoder for anomaly detection, achieving a 10× increase in training throughput.
+    \item Facilitated collaboration among 10 international teams by establishing and documenting standardized methodologies and metrics for explainable and robust AI-driven results.
+    \item Stress-tested Google Cloud Platform’s readiness and scalability for large-scale data analysis workflows handling datasets of O(100\,TB).
 \end{tightemize}
 Python libraries: \texttt{PyTorch}, \texttt{MLflow}, \texttt{Ray}, \texttt{PySpark}
 \sectionsep
@@ -192,7 +197,6 @@ Python libraries: \texttt{PyTorch}, \texttt{MLflow}, \texttt{Ray}, \texttt{PySpa
 \begin{tightemize}
     \item Authored the first technical report at CERN to publicly release a complete statistical model, setting a precedent for reinterpretation and transparency in the field.
     \item Developed and maintained C++ data analysis software for high-throughput computations across the full development lifecycle.
-    \item Taught Python programming and scientific computing to MSc students through hands-on lab sessions.
 \end{tightemize}
 Python libraries: \texttt{NumPy}, \texttt{pandas}, \texttt{SciPy}, \texttt{scikit-learn}
 \sectionsep

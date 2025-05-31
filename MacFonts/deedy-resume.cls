@@ -58,7 +58,7 @@ Last Updated on
 		\fontspec{Helvetica Neue UltraLight}\fontsize{40pt}{10cm}\selectfont #3
 	} \\
 	\vspace{10pt}
-	\centering{ \color{headings}\fontspec{Heiti TC Medium}\fontsize{18pt}{14pt}\selectfont #4}
+	\centering{ \color{headings}\fontspec{Heiti TC Medium}\fontsize{16pt}{14pt}\selectfont #4}
 	\noindent\makebox[\linewidth]{\rule{\paperwidth}{0.4pt}}
 	\vspace{-15pt}
 }
