@@ -90,6 +90,7 @@ Data engineer and software developer with 10 years experience in various technic
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Contact}
 
+\textbf{Location:} Greece \\
 \textbf{Email:} \href{mailto:kourlitisV@hotmail.com}{kourlitisV@hotmail.com} \\
 % \textbf{Tel:} +30 6949552002 \\
 \textbf{LinkedIn:} \urlstyle{same}\href{https:www.linkedin.com/in/vangelis-kourlitis}{vangelis-kourlitis} \\
@@ -167,7 +168,7 @@ SQL \textbullet{} Docker \textbullet{} GCP \textbullet{} AWS \textbullet{} CUDA 
 \location{Oct 2023 - Dec 2024}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-    \item Led an international, diverse, and distributed 120-member group overseeing data analysis software ($\sim$1M open source LOC) and data formats, delivering features aligned with organizational goals.
+    \item Led an international, diverse and distributed 120-member group overseeing data analysis software ($\sim$1M open source LOC) and data formats, delivering features aligned with organizational goals.
     \item Drove the adoption of a lightweight data format ahead of schedule, offering 3x reduction in data storage costs.
     \item Rolled out streamlined software configuration paradigm, reducing onboarding time by over 95\%.
     \item Planned and mentored multiple early-career developers projects, delivering innovative software products in data engineering on time and fostering professional growth.
@@ -176,7 +177,7 @@ SQL \textbullet{} Docker \textbullet{} GCP \textbullet{} AWS \textbullet{} CUDA 
 \descript{Data Science Researcher}
 \location{Mar 2023 - Sept 2023}
 \begin{tightemize}
-    \item Awarded €40k grant to lead a 10-member team in modernizing legacy C++ ETL tools for large-scale (O(100TB)) data, implementing scalable array-based solutions that achieved 4× higher throughput and aligning with industry data science standards.
+    \item Awarded €40k grant to lead a 10-member team in modernizing legacy C++ ETL tools for big data ($\mathcal{O}$(100TB)), implementing horizontally scalable array-based solutions that achieved 4× higher throughput and aligning with industry data science standards.
 \end{tightemize}
 Python libraries: \texttt{Awkward}, \texttt{Dask}, \texttt{Numba}, \texttt{CuPy}
 \sectionsep
