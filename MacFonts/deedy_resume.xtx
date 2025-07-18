@@ -67,7 +67,7 @@
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \namesection{Vangelis}{Kourlitis}{PhD}{ 
-    Data Engineering | Technical Leadership | ex-CERN
+    Data Engineering | ETL | ex-CERN
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -83,14 +83,14 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Profile}
 
-Data engineer and software developer with 10 years experience in various technical projects and leadership positions at CERN. Specialized in developing scalable pipelines in big data analytics and machine learning domains, with a proven track record of optimizing workflows and delivering impactful solutions. Skilled leader with extensive experience mentoring teams, managing R\&D projects and authoring and reviewing technical reports. Now seeking to transition into tech industry to apply advanced technical expertise to business challenges.
+Data engineer and software developer with 10 years experience in technical projects and leadership positions at CERN. Specialized in developing scalable pipelines in big data analytics and machine learning domains, with a proven track record of optimizing workflows and delivering impactful solutions. Now pursuing to master Chubb’s cloud-native data tool-chain and accelerate insurer analytics.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     CONTACT
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Contact}
 
-\textbf{Location:} Greece \\
+\textbf{Location:} Thessaloniki, Greece \\
 \textbf{Email:} \href{mailto:kourlitisV@hotmail.com}{kourlitisV@hotmail.com} \\
 % \textbf{Tel:} +30 6949552002 \\
 \textbf{LinkedIn:} \urlstyle{same}\href{https:www.linkedin.com/in/vangelis-kourlitis}{vangelis-kourlitis} \\
@@ -110,14 +110,20 @@ Data engineer and software developer with 10 years experience in various technic
 
 \section{Skills}
 
-\location{Advanced}
-Python \textbullet{} C++ \\ 
+\location{Programming}
+Python \textbullet{} SQL \textbullet{} C++ \textbullet{} Bash \\
 \sectionsep
-\location{Intermediate}
-Unix \textbullet{} Git (CI/CD) \textbullet{} HTCondor \textbullet{} Slurm \textbullet{} VTune \\
+\location{Data Pipelines}
+Apache Kafka \\
 \sectionsep
-\location{Novice}
-SQL \textbullet{} Docker \textbullet{} GCP \textbullet{} AWS \textbullet{} CUDA \\
+\location{Cloud \& DevOps}
+GCP \textbullet{} AWS \textbullet{} Docker \textbullet{} Git (CI/CD) \\
+\sectionsep
+\location{Distributed Compute}
+Dask \textbullet{} Apache Spark  \textbullet{} Ray \\
+\sectionsep
+\location{Workflow Schedulers}
+HTCondor \textbullet{} Slurm \\
 
 \sectionsep
 
@@ -127,10 +133,10 @@ SQL \textbullet{} Docker \textbullet{} GCP \textbullet{} AWS \textbullet{} CUDA 
 
 \section{Education} 
 
-\subsection{Athena Research Center}
-\descript{Athens Natural Language Processing Summer School}
-\location{2024 | Athens, GR}
-\sectionsep
+% \subsection{Athena Research Center}
+% \descript{Athens Natural Language Processing Summer School}
+% \location{2024 | Athens, GR}
+% \sectionsep
 
 % \subsection{Technical University of Munich}
 % \descript{Scientific Project Management}
@@ -168,18 +174,16 @@ SQL \textbullet{} Docker \textbullet{} GCP \textbullet{} AWS \textbullet{} CUDA 
 \location{Oct 2023 - Dec 2024}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-    \item Led an international, diverse and distributed 120-member group overseeing data analysis software ($\sim$1M open source LOC) and data formats, delivering features aligned with organizational goals.
-    \item Drove the adoption of a lightweight data format ahead of schedule, offering 3x reduction in data storage costs.
+    \item Directed a global, 120-member cross-functional team providing 24/7 production support for a $\sim$1\,M LOC data analysis stack and formats; used Agile methodologies to deliver robust new features aligned with organizational goals.
+    \item Achieved 3x reduction in data storage costs by adoption of a lightweight columnar data format ahead of schedule.
     \item Rolled out streamlined software configuration paradigm, reducing onboarding time by over 95\%.
-    \item Planned and mentored multiple early-career developers projects, delivering innovative software products in data engineering on time and fostering professional growth.
-    \item Promoted performant, array-based solutions for large-scale, unstructured, multi-modal data processing in advanced data analytics and AI workflows; organized tutorials using open source Python tooling across the US and EU.
+    \item Supervised early-career developers projects, delivering innovative data engineering products on time and fostering professional growth.
 \end{tightemize}
 \descript{Data Science Researcher}
 \location{Mar 2023 - Sept 2023}
 \begin{tightemize}
-    \item Awarded €40k grant to lead a 10-member team in modernizing legacy C++ ETL tools for big data ($\mathcal{O}$(100TB)), implementing horizontally scalable array-based solutions that achieved 4× higher throughput and aligning with industry data science standards.
+    \item Secured €40k funding to modernize legacy ETL tools for big data stream handling ($\mathcal{O}$(100TB)), achieved 4x increased throughput by horizontally scalable array-based solution.
 \end{tightemize}
-Python libraries: \texttt{Awkward}, \texttt{Dask}, \texttt{Numba}, \texttt{CuPy}
 \sectionsep
 
 \runsubsection{Argonne National Laboratory} 
@@ -188,11 +192,10 @@ Python libraries: \texttt{Awkward}, \texttt{Dask}, \texttt{Numba}, \texttt{CuPy}
 \location{Nov 2019 - Feb 2023}
 \begin{tightemize}
     \item Led a team of 7 researchers in applying advanced analysis algorithms and AI for complex data classification, increasing experimental reach by 12\%.
+    \item Developed computer vision model with multi-GPU training strategy in \texttt{PyTorch} and \texttt{MLflow} to restore sensor images and accelerate physics simulation workflows by up to 20\%.
     \item Facilitated collaboration among 10 international teams by establishing FAIR principles for AI models and documenting standardized methodologies for robust and explainable AI-driven results.
-    \item Identified bottlenecks and doubled processing speed of large-scale C++ radiation simulations via computational optimizations.
-    \item End-to-end developed 3D CNN computer vision model with multi-GPU training workflows to restore fast, low-accuracy sensor images and accelerate further simulation workflows by up to 20\%.
+    \item Stress-tested Google Cloud Platform’s readiness and scalability for large-scale data analysis workflows O(100\,TB), minimizing TCO by optimizing egress.
 \end{tightemize}
-Python libraries: \texttt{PyTorch}, \texttt{TensorFlow}, \texttt{MLflow}, \texttt{Ray}, \texttt{PySpark}
 \sectionsep
 
 \runsubsection{University of Sheffield} 
@@ -200,11 +203,10 @@ Python libraries: \texttt{PyTorch}, \texttt{TensorFlow}, \texttt{MLflow}, \textt
 \descript{Doctoral Researcher}
 \location{Nov 2015 - Oct 2019}
 \begin{tightemize}
+    \item Developed and maintained C++ data-analysis software across the full development lifecycle, enabling high-throughput distributed computations on a 500\,k core computing grid.
+    \item Monitored and troubleshoot real-time Kafka-like data streams assessing data quality during daily experiment operation.
     \item Authored the first technical report at CERN to open source a complete statistical model, setting a precedent for reinterpretation and transparency in the field.
-    \item Developed and maintained C++ data analysis software for high-throughput computations across the full development lifecycle.
-    % \item Taught Python programming, scientific computing and ML fundamentals to MSc students through hands-on lab sessions.
 \end{tightemize}
-Python libraries: \texttt{NumPy}, \texttt{pandas}, \texttt{SciPy}, \texttt{scikit-learn}
 \sectionsep
 
 % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
