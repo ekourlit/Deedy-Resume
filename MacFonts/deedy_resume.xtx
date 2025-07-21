@@ -67,7 +67,7 @@
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \namesection{Vangelis}{Kourlitis}{PhD}{ 
-    Data Engineering | ETL | ex-CERN
+    Data Engineering | Machine Learning | ex-CERN
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -83,7 +83,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Profile}
 
-Data engineer and software developer with 10 years experience in technical projects and leadership positions at CERN. Specialized in developing scalable pipelines in big data analytics and machine learning domains, with a proven track record of optimizing workflows and delivering impactful solutions. Now pursuing to master Chubb’s cloud-native data tool-chain and accelerate insurer analytics.
+Data engineer and software developer with 10 years experience in technical projects and leadership positions at CERN. Specialized in developing scalable pipelines in big data analytics and machine learning domains, with a proven track record of optimizing workflows and delivering impactful solutions. Now seeking to apply my expertise in the tech industry to drive innovation and help organizations make data-driven decisions at scale.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     CONTACT
@@ -113,9 +113,6 @@ Data engineer and software developer with 10 years experience in technical proje
 \location{Programming}
 Python \textbullet{} SQL \textbullet{} C++ \textbullet{} Bash \\
 \sectionsep
-\location{Data Pipelines}
-Apache Kafka \\
-\sectionsep
 \location{Cloud \& DevOps}
 GCP \textbullet{} AWS \textbullet{} Docker \textbullet{} Git (CI/CD) \\
 \sectionsep
@@ -133,10 +130,10 @@ HTCondor \textbullet{} Slurm \\
 
 \section{Education} 
 
-% \subsection{Athena Research Center}
-% \descript{Athens Natural Language Processing Summer School}
-% \location{2024 | Athens, GR}
-% \sectionsep
+\subsection{Athena Research Center}
+\descript{Athens Natural Language Processing Summer School}
+\location{2024 | Athens, GR}
+\sectionsep
 
 % \subsection{Technical University of Munich}
 % \descript{Scientific Project Management}
@@ -174,15 +171,15 @@ HTCondor \textbullet{} Slurm \\
 \location{Oct 2023 - Dec 2024}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-    \item Directed a global, 120-member cross-functional team providing 24/7 production support for a $\sim$1\,M LOC data analysis stack and formats; used Agile methodologies to deliver robust new features aligned with organizational goals.
-    \item Achieved 3x reduction in data storage costs by adoption of a lightweight columnar data format ahead of schedule.
-    \item Rolled out streamlined software configuration paradigm, reducing onboarding time by over 95\%.
-    \item Supervised early-career developers projects, delivering innovative data engineering products on time and fostering professional growth.
+    \item Directed a global, 120-member cross-functional team delivering 24/7 production support and new features for a $\sim$1\,M LOC data analysis platform serving more than 3,000 users.
+    \item Achieved 3x reduction in organizational data storage costs by adoption of a lightweight columnar data format ahead of schedule.
+    \item Rolled out streamlined software configuration paradigm, reducing analysts onboarding time by over 95\%.
+    \item Planned and supervised fixed price/time projects (€10-20k, 3-6 months) for early-career developers, delivering innovative data engineering products on time and fostering professional growth.
 \end{tightemize}
 \descript{Data Science Researcher}
 \location{Mar 2023 - Sept 2023}
 \begin{tightemize}
-    \item Secured €40k funding to modernize legacy ETL tools for big data stream handling ($\mathcal{O}$(100TB)), achieved 4x increased throughput by horizontally scalable array-based solution.
+    \item Awarded €40k grant to modernize legacy ETL tools for big data stream analysis ($\mathcal{O}$(100\,TB)) with scalable array-based solutions, achieving 4x higher throughput and aligning with industry data science standards.
 \end{tightemize}
 \sectionsep
 
@@ -191,10 +188,11 @@ HTCondor \textbullet{} Slurm \\
 \descript{Data Science Researcher}
 \location{Nov 2019 - Feb 2023}
 \begin{tightemize}
-    \item Led a team of 7 researchers in applying advanced analysis algorithms and AI for complex data classification, increasing experimental reach by 12\%.
-    \item Developed computer vision model with multi-GPU training strategy in \texttt{PyTorch} and \texttt{MLflow} to restore sensor images and accelerate physics simulation workflows by up to 20\%.
-    \item Facilitated collaboration among 10 international teams by establishing FAIR principles for AI models and documenting standardized methodologies for robust and explainable AI-driven results.
-    \item Stress-tested Google Cloud Platform’s readiness and scalability for large-scale data analysis workflows O(100\,TB), minimizing TCO by optimizing egress.
+    \item Led a team of 7 researchers in applying advanced analysis algorithms and deep learning for complex data classification, increasing analysis coverage by 12\%.
+    \item Developed an end-to-end CNN computer vision model, with multi-GPU training strategy in \texttt{PyTorch} and \texttt{MLflow}, to improve simulation software cost-efficiency by up to 20\%.
+    \item Benchmarked novel accelerator SambaNova RDU against NVIDIA GPUs on autoencoder-based anomaly detection model, achieving a 10× throughput increase and enabling timely insights from large-scale datasets.
+    \item Established FAIR principles for AI models and standardized methodologies among international research teams, allowing faster review cycles and enhanced transparency across projects.
+    \item Stress-tested Google Cloud Platform’s readiness and scalability for big data analysis workflows, minimizing TCO by optimizing egress.
 \end{tightemize}
 \sectionsep
 
@@ -203,9 +201,9 @@ HTCondor \textbullet{} Slurm \\
 \descript{Doctoral Researcher}
 \location{Nov 2015 - Oct 2019}
 \begin{tightemize}
-    \item Developed and maintained C++ data-analysis software across the full development lifecycle, enabling high-throughput distributed computations on a 500\,k core computing grid.
-    \item Monitored and troubleshoot real-time Kafka-like data streams assessing data quality during daily experiment operation.
     \item Authored the first technical report at CERN to open source a complete statistical model, setting a precedent for reinterpretation and transparency in the field.
+    \item Developed and maintained data analysis software across the full development lifecycle, enabling high-throughput distributed computations on a 500\,k core computing grid.
+    \item Taught Python programming, scientific computing and ML fundamentals to MSc students through hands-on lab sessions.
 \end{tightemize}
 \sectionsep
 
