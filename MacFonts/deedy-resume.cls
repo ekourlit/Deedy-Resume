@@ -60,7 +60,8 @@ Last Updated on
 	\vspace{10pt}
 	\centering{ \color{headings}\fontspec{Heiti TC Medium}\fontsize{18pt}{14pt}\selectfont #4}
 	\noindent\makebox[\linewidth]{\rule{\paperwidth}{0.4pt}}
-	\vspace{-15pt}
+	% \vspace{-15pt}
+	\vspace{5pt}
 }
 \titlespacing{\section}{0pt}{0pt}{0pt}
 
