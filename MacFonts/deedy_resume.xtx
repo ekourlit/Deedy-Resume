@@ -67,7 +67,7 @@
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \namesection{Vangelis}{Kourlitis}{PhD}{ 
-    Data Engineering | ETL | ex-CERN
+    Data Scientist | ex-CERN
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -83,7 +83,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Profile}
 
-Data engineer and software developer with 10 years experience in technical projects and leadership positions at CERN. Specialized in developing scalable pipelines in big data analytics and machine learning domains, with a proven track record of optimizing workflows and delivering impactful solutions. Now pursuing to master Chubb’s data tool-chain and accelerate insurer analytics.
+Data scientist with 10 years experience in technical projects and leadership positions at CERN. Specialized in developing scalable pipelines in big data analytics and machine learning domains. Skilled leader with extensive experience mentoring teams, managing R\&D projects and authoring and reviewing technical reports. Now seeking to transition into deep tech industry to apply advanced technical expertise to commercial challenges.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     CONTACT
@@ -111,13 +111,10 @@ Data engineer and software developer with 10 years experience in technical proje
 \section{Skills}
 
 \location{Programming}
-Python \textbullet{} SQL \textbullet{} C++ \textbullet{} Bash \\
+Python \textbullet{} SQL \textbullet{} Bash \textbullet{} C++ \textbullet{} CUDA \\
 \sectionsep
-\location{Data Pipelines}
-Apache Kafka \\
-\sectionsep
-\location{Cloud \& DevOps}
-GCP \textbullet{} AWS \textbullet{} Docker \textbullet{} Git (CI/CD) \\
+\location{DevOps \& Cloud}
+Git (CI/CD) \textbullet{} Docker \textbullet{} ONNX \textbullet{} GCP \textbullet{} AWS (SageMaker) \\
 \sectionsep
 \location{Distributed Compute}
 Dask \textbullet{} Apache Spark  \textbullet{} Ray \\
@@ -133,10 +130,10 @@ HTCondor \textbullet{} Slurm \\
 
 \section{Education} 
 
-% \subsection{Athena Research Center}
-% \descript{Athens Natural Language Processing Summer School}
-% \location{2024 | Athens, GR}
-% \sectionsep
+\subsection{Athena Research Center}
+\descript{Athens Natural Language Processing Summer School}
+\location{2024 | Athens, GR}
+\sectionsep
 
 % \subsection{Technical University of Munich}
 % \descript{Scientific Project Management}
@@ -192,7 +189,8 @@ HTCondor \textbullet{} Slurm \\
 \location{Nov 2019 - Feb 2023}
 \begin{tightemize}
     \item Led a research team of 7 in applying advanced analysis algorithms and deep learning for complex data classification, increasing analysis coverage by 12\%.
-    \item Developed an end-to-end CNN computer vision model, with multi-GPU training strategy in \texttt{PyTorch} and \texttt{MLflow}, to improve simulation software cost-efficiency by up to 20\%.
+    \item Developed an end-to-end CNN computer vision model, with multi-GPU training strategy in \texttt{PyTorch} and \texttt{MLflow}, to restore fast, low-accuracy sensor images and improve simulation software cost-efficiency by up to 20\%.
+    \item Benchmarked novel accelerator SambaNova RDU against NVIDIA GPUs on autoencoder-based anomaly detection model, achieving a 10× throughput increase and enabling timely insights from large-scale datasets.
     \item Established FAIR principles for AI models and standardized methodologies among international research teams, allowing faster review cycles and enhanced transparency across projects.
     \item Stress-tested Google Cloud Platform’s readiness and scalability for big data analysis workflows, minimizing TCO by optimizing egress.
 \end{tightemize}
@@ -203,9 +201,9 @@ HTCondor \textbullet{} Slurm \\
 \descript{Doctoral Researcher}
 \location{Nov 2015 - Oct 2019}
 \begin{tightemize}
-    \item Developed and maintained C++ data-analysis software across the full development lifecycle, enabling high-throughput distributed computations on a 500\,k core computing grid.
-    \item Monitored and troubleshoot real-time Kafka-like data streams assessing data quality during daily experiment operation.
     \item Authored the first technical report at CERN to open source a complete statistical model, setting a precedent for reinterpretation and transparency in the field.
+    \item Developed and maintained C++ data-analysis software across the full development lifecycle, enabling high-throughput distributed computations on a 500\,k core computing grid.
+    \item Taught Python programming, scientific computing and ML fundamentals to MSc students through hands-on lab sessions.
 \end{tightemize}
 \sectionsep
 
