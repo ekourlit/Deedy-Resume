@@ -83,7 +83,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Profile}
 
-Data scientist with 10 years experience in technical projects and leadership positions at CERN. Specialized in developing scalable pipelines in big data analytics and machine learning domains. Skilled leader with extensive experience mentoring teams, managing R\&D projects and authoring and reviewing technical reports. Now seeking to transition into deep tech industry to apply advanced technical expertise to commercial challenges.
+Data scientist with 10 years experience in technical projects and leadership positions at CERN. Specialized in developing scalable pipelines in big data analytics and machine learning domains. Skilled leader with extensive experience mentoring teams, managing R\&D projects and authoring and reviewing technical reports. Now seeking to transition into business-oriented role, master new tooling and enhance data-driven decision-making.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     CONTACT
@@ -111,16 +111,16 @@ Data scientist with 10 years experience in technical projects and leadership pos
 \section{Skills}
 
 \location{Programming}
-Python \textbullet{} SQL \textbullet{} Bash \textbullet{} C++ \textbullet{} CUDA \\
+Python \textbullet{} SQL \textbullet{} Bash \textbullet{} C++ \\
 \sectionsep
 \location{DevOps \& Cloud}
-Git (CI/CD) \textbullet{} Docker \textbullet{} ONNX \textbullet{} GCP \textbullet{} AWS (SageMaker) \\
+Git (CI/CD) \textbullet{} Docker \textbullet{} GCP \textbullet{} AWS (SageMaker) \\
 \sectionsep
 \location{Distributed Compute}
 Dask \textbullet{} Apache Spark  \textbullet{} Ray \\
-\sectionsep
-\location{Workflow Schedulers}
-HTCondor \textbullet{} Slurm \\
+% \sectionsep
+% \location{Workflow Schedulers}
+% HTCondor \textbullet{} Slurm \\
 
 \sectionsep
 
@@ -130,10 +130,10 @@ HTCondor \textbullet{} Slurm \\
 
 \section{Education} 
 
-\subsection{Athena Research Center}
-\descript{Athens Natural Language Processing Summer School}
-\location{2024 | Athens, GR}
-\sectionsep
+% \subsection{Athena Research Center}
+% \descript{Athens Natural Language Processing Summer School}
+% \location{2024 | Athens, GR}
+% \sectionsep
 
 % \subsection{Technical University of Munich}
 % \descript{Scientific Project Management}
@@ -171,15 +171,15 @@ HTCondor \textbullet{} Slurm \\
 \location{Oct 2023 - Dec 2024}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-    \item Directed a global, 120-member cross-functional team with Agile methodologies, delivering 24/7 production support and new features for a $\sim$1\,M LOC data analysis platform serving more than 3,000 users.
-    \item Achieved 3x reduction in organizational data storage costs by adoption of a lightweight columnar data format ahead of schedule.
+    \item Directed a global, 120-member cross-functional team with Agile methodologies, delivering 24/7 production support and new features for a $\sim$1\,M LOC data analysis platform serving more than 3,000 users, while overseeing code review and testing to ensure quality and reliability.
+    \item Reduced organizational data storage costs threefold by adopting a lightweight columnar data format and a dashboard-based monitoring system to proactively troubleshoot data-quality issues.
     \item Rolled out streamlined software configuration paradigm, reducing analysts onboarding time by over 95\%.
-    \item Planned and supervised early-career developers projects, delivering innovative data engineering products on time and fostering professional growth.
+    \item Planned and supervised early-career developers projects, delivering innovative software products on time and fostering professional growth.
 \end{tightemize}
 \descript{Data Science Researcher}
 \location{Mar 2023 - Sept 2023}
 \begin{tightemize}
-    \item Awarded €40k grant to modernize legacy C++ ETL tools for big data stream analysis ($\mathcal{O}$(100\,TB)) with horizontally scalable array-based solutions, achieving 4x higher throughput and aligning with industry data science standards.
+    \item Awarded €40k grant to modernize legacy ETL tools for big data stream analysis ($\mathcal{O}$(100\,TB)) with scalable array-based solutions, achieving 4x faster analysis and aligning with modern Pythonic data science standards.
 \end{tightemize}
 \sectionsep
 
@@ -189,10 +189,9 @@ HTCondor \textbullet{} Slurm \\
 \location{Nov 2019 - Feb 2023}
 \begin{tightemize}
     \item Led a research team of 7 in applying advanced analysis algorithms and deep learning for complex data classification, increasing analysis coverage by 12\%.
-    \item Developed an end-to-end CNN computer vision model, with multi-GPU training strategy in \texttt{PyTorch} and \texttt{MLflow}, to restore fast, low-accuracy sensor images and improve simulation software cost-efficiency by up to 20\%.
-    \item Benchmarked novel accelerator SambaNova RDU against NVIDIA GPUs on autoencoder-based anomaly detection model, achieving a 10× throughput increase and enabling timely insights from large-scale datasets.
     \item Established FAIR principles for AI models and standardized methodologies among international research teams, allowing faster review cycles and enhanced transparency across projects.
     \item Stress-tested Google Cloud Platform’s readiness and scalability for big data analysis workflows, minimizing TCO by optimizing egress.
+    \item Developed an end-to-end CNN computer vision model, with multi-GPU training strategy in \texttt{PyTorch} and \texttt{MLflow}, to restore fast, low-accuracy sensor images and improve simulation software cost-efficiency by up to 20\%.
 \end{tightemize}
 \sectionsep
 
@@ -201,8 +200,8 @@ HTCondor \textbullet{} Slurm \\
 \descript{Doctoral Researcher}
 \location{Nov 2015 - Oct 2019}
 \begin{tightemize}
-    \item Authored the first technical report at CERN to open source a complete statistical model, setting a precedent for reinterpretation and transparency in the field.
     \item Developed and maintained C++ data-analysis software across the full development lifecycle, enabling high-throughput distributed computations on a 500\,k core computing grid.
+    \item Authored the first technical report at CERN to open source a complete statistical model, setting a precedent for reinterpretation and transparency in the field.
     \item Taught Python programming, scientific computing and ML fundamentals to MSc students through hands-on lab sessions.
 \end{tightemize}
 \sectionsep
