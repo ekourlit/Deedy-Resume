@@ -67,7 +67,7 @@
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \namesection{Vangelis}{Kourlitis}{PhD}{ 
-    Data Science | Technical Leadership | ex-CERN
+    Scientific Computing | Machine Learning | ex-CERN
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -83,7 +83,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Profile}
 
-Data scientist with 10 years experience in technical projects and leadership positions at CERN. Specialized in end-to-end developing scalable pipelines in big data analytics and machine learning domains. Skilled cross-functional leader with extensive experience mentoring teams and managing R\&D projects. Now seeking to transition into business-oriented role, master new tooling and enhance data-driven decision-making.
+Scientific software developer with 10 years experience at CERN. Specialized at the end-to-end development of solutions at the intersection of machine learning, simulation software and data analytics. Skilled leader with extensive experience mentoring teams and managing R\&D projects. Now seeking to transition into tech industry, with interest enhancing design optimization with differentiable methods.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     CONTACT
@@ -113,11 +113,14 @@ Data scientist with 10 years experience in technical projects and leadership pos
 \location{Programming}
 Python \textbullet{} C++ \textbullet{} CUDA \textbullet{} SQL \textbullet{} Bash \\
 \sectionsep
+\location{Performance Profiling}
+VTune \textbullet{} Valgrind (Callgrind) \\
+\sectionsep
 \location{DevOps \& Cloud}
-Git (CI/CD) \textbullet{} MLflow \textbullet{} Docker \textbullet{} AWS (SageMaker) \textbullet{} GCP \\
+Git (CI/CD) \textbullet{} MLflow \textbullet{} Docker \textbullet{} GCP \\
 \sectionsep
 \location{Distributed Compute}
-Dask \textbullet{} Apache Spark / Databricks  \textbullet{} Ray \\
+Dask \textbullet{} Ray \\
 \sectionsep
 \location{Workflow Schedulers}
 HTCondor \textbullet{} Slurm \\
@@ -165,14 +168,24 @@ HTCondor \textbullet{} Slurm \\
 
 \section{Experience}
 
+\runsubsection{Freelance} 
+\descript{| Thessaloniki, GR}
+\descript{Technical Consultant}
+\location{Jan 2025 - Jun 2025}
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightemize}
+    \item Built \texttt{Geant4} application (geometry, large-scale runs, ML-ready curation) providing ground truth to train a flow-matching foundation model for radiation simulation; contributions helped secure an ERC grant (€1.5M, 5-year).
+\end{tightemize}
+\sectionsep
+
 \runsubsection{CERN \& Technical University of Munich}
 \descript{| Geneva, CH}
 \descript{Analysis Model Group Coordinator}
 \location{Oct 2023 - Dec 2024}
-\vspace{\topsep} % Hacky fix for awkward extra vertical space
+% \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
     \item Directed a global, 120-member cross-functional team, delivering 24/7 production support and new features for a $\sim$1\,M LOC data analysis platform serving more than 3,000 users.
-    \item Reduced organizational data storage costs threefold by adopting a lightweight columnar data format.
+    \item Reduced organizational data storage costs threefold by adopting a lightweight columnar data format ahead of schedule.
     \item Rolled out streamlined software configuration paradigm, reducing analysts onboarding time by over 95\%.
     \item Planned and supervised 5 early-career developers projects, delivering innovative software products on time and fostering professional growth.
 \end{tightemize}
@@ -189,11 +202,12 @@ HTCondor \textbullet{} Slurm \\
 \descript{Data Science Researcher}
 \location{Nov 2019 - Feb 2023}
 \begin{tightemize}
-    \item Led a research team of 7 in applying advanced analysis algorithms and deep learning for complex data classification, increasing analysis coverage by 12\%.
-    \item End-to-end developed a CNN computer vision model, with multi-GPU training strategy in \texttt{PyTorch}, to restore fast, low-accuracy sensor images and improve simulation software cost-efficiency by up to 20\%.
-    \item Achieved 10× higher training throughput for a variational autoencoder-based anomaly detection model, applicable to fraud detection, benchmarking SambaNova RDU accelerator against NVIDIA GPUs.
-    \item Established FAIR principles for AI models and standardized methodologies among international research teams, allowing faster review cycles and enhanced transparency across projects.
-    \item Stress-tested Google Cloud Platform’s readiness and scalability for big data analysis workflows ($\mathcal{O}$(100)\,TB), minimizing TCO by optimizing egress.
+    \item Identified bottlenecks and optimized \texttt{Geant4}-based radiation simulations, achieved a speed gain of a factor of two through computational improvements.
+    % \item Led a research team of 7 in applying advanced analysis algorithms and deep learning for complex data classification, increasing analysis coverage by 12\%.
+    \item End-to-end developed a 3D CNN computer vision model, with multi-GPU training strategy in \texttt{PyTorch}, to restore fast, low-accuracy sensor images and improve simulation software cost-efficiency by up to 20\%.
+    \item Achieved 10× higher training throughput for a variational autoencoder-based anomaly detection model, benchmarking novel SambaNova RDU accelerator against NVIDIA GPUs.
+    \item Established FAIR principles for AI models and standardized methodologies among research teams, allowing faster review cycles and enhanced transparency.
+    % \item Stress-tested Google Cloud Platform’s readiness and scalability for big data analysis workflows ($\mathcal{O}$(100)\,TB), minimizing TCO by optimizing egress.
 \end{tightemize}
 \sectionsep
 
@@ -202,9 +216,9 @@ HTCondor \textbullet{} Slurm \\
 \descript{Doctoral Researcher}
 \location{Nov 2015 - Oct 2019}
 \begin{tightemize}
-    \item Developed and maintained C++ data-analysis software across the full development lifecycle, enabling high-throughput distributed computations on a 500\,k core computing grid.
-    \item Authored the first technical report at CERN to open source a complete statistical model, setting a precedent for reinterpretation and transparency in the field.
-    \item Taught Python programming, scientific computing and ML fundamentals to MSc students through hands-on lab sessions.
+    \item Developed C++ data-analysis software, enabling high-throughput distributed computations on a 500\,k core computing grid.
+    % \item Authored the first technical report at CERN to open source a complete statistical model, setting a precedent for reinterpretation and transparency in the field.
+    \item Taught Python programming, scientific computing and ML fundamentals (\texttt{NumPy}, \texttt{SciPy}, \texttt{scikit-learn}) to MSc students through hands-on lab sessions.
 \end{tightemize}
 \sectionsep
 
