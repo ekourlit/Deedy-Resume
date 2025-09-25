@@ -175,7 +175,7 @@ Apache Spark / Databricks \textbullet{} GCP \textbullet{} AWS \textbullet{} Gove
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
     \item Led a global, 120-member cross-functional group, delivering production support for a data analysis framework serving more than 3,000 analysts.
-    \item Partnered with senior stakeholders to define roadmap for new features delivery and success metrics and ensured adherence within the group. % VK: miss measurable business outcome
+    \item Partnered with senior stakeholders to define roadmap and success metrics for new features delivery, ensured adherence introducing policies to double development efforts while maintaining within budget.
     \item Rolled out streamlined and documented software configuration paradigm, reducing analysts onboarding time by over 95\%.
     \item Reduced organizational data storage costs 3x by adopting a lightweight columnar data format along with observability solutions to proactively troubleshoot data-quality issues.
     \item Mentored 5 early-career developers, delivering innovative data analytics products on time and fostering professional growth.
